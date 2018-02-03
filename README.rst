@@ -13,11 +13,12 @@ Sources in Cloud & Datacenter management area.
 Apr 17-18, 2017
 ===============
 
+ * 강의명 (Course Name):  Linux based Infrastructure build and management
  * 진행
 
    * 장태희, 최영락
 
- * `개요 <20170417-18/overview.rst>`_
+ * `개요 (Overview) <20170417-18/overview.rst>`_
  * 자료
 
    * 
